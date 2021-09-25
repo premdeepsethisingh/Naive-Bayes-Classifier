@@ -1,0 +1,11 @@
+Type of family,Age group,Income Status,Will they buy a car
+Nuclear,young,low,yes
+Extended,old,low,no
+childless,middle-age,low,no
+childless,young,medium,no
+Nuclear,middle-age,medium,yes
+childless,young,low,yes
+Nuclear,old,high,no
+Nuclear,middle-age,medium,yes
+Extended,middle-age,high,yes
+childless,old,low,yes
